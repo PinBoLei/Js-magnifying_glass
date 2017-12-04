@@ -3,7 +3,7 @@
 ##### 利用原生JS写的放大镜
 ###### 截图
 <img src="magnifying_glass\example.png" />
-###### 主要代码
+主要代码
 
 ```javascript
 移动的比例  把X值和Y值换算成比例;
