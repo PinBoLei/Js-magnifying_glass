@@ -4,7 +4,8 @@
 ###### 截图
 <img src="magnifying_glass\example.png" />
 ###### 主要代码
-```
+
+```javascript
 移动的比例  把X值和Y值换算成比例;
 var proportionX = left / (oS_box.offsetWidth - oS_position.offsetWidth);
 var proportionY = top / (oS_box.offsetHeight - oS_position.offsetHeight);
